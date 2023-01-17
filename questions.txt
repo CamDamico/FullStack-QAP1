@@ -1,0 +1,9 @@
+Q1: I completed this QAP within 2 - 2 1/2 hours. 
+
+Q2: The resources i used for this QAP include class lectures, https://www.npmjs.com/ and https://leanylabs.com/blog/npm-packages-for-nodejs/
+
+Q3: I did recieve or ask for any help on this QAP 
+
+Q4: The only question i had asked my instructor was if the QAP was all seperate .js files in the same repository or if the core objects and npm installation were to be in seperate repository files
+
+Q5: Each question in this QAP i would rate the difficulty a 3/10. Peter had went through all of the material thoroughly in our lectures. The hardest part of this QAP was the research and finding which npm package i wanted to install and which core objects i wanted to choose.

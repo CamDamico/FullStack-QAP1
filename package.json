@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-qap1",
+  "version": "1.0.0",
+  "description": "Semester 3 FullStack JavaScript QAP 1",
+  "main": "os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamDamico/FullStack-QAP1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamDamico/FullStack-QAP1/issues"
+  },
+  "homepage": "https://github.com/CamDamico/FullStack-QAP1#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
